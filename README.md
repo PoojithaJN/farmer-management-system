@@ -21,7 +21,6 @@ To develop a digital solution that empowers farmers with:
 - *Frontend*: HTML, CSS, JavaScript  
 - *Backend*: Python (Flask)  
 - *Database*: SQLite  
-- *Email Integration*: SMTP (for buyer request notifications)  
 - *Tools*: VS Code, GitHub, GitHub Desktop  
 
 ---
@@ -33,8 +32,7 @@ To develop a digital solution that empowers farmers with:
 - 📦 *Tool/Seed Store*: Farmers can order tools and seeds directly from sellers  
 - 📧 *Request System*: Buyers can send requests via email for product inspection  
 - 🔐 *User Management*: Secure login with session tracking  
-- 🧾 *Edit/Delete Options*: Farmers can edit or delete their profile and product entries  
-- 📄 *Admin Panel* (optional for future): User management, analytics, content moderation  
+- 🧾 *Edit/Delete Options*: Farmers can edit or delete their profile and product entries   
 
 ---
 
